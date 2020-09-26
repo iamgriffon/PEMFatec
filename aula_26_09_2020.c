@@ -99,7 +99,7 @@ int main(){
     busca(4,4, diagonal, 7);
      printf("Buscando o numero -1 \n");
     busca(4,4, diagonal, -1);
-         printf("Buscando o numero 99 \n");
+     printf("Buscando o numero 99 \n");
     busca(4,4, diagonal, 99);
     
     //Operações com somas de elementos específicos
