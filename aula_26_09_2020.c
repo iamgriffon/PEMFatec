@@ -85,7 +85,6 @@ int main(){
     //Operações com soma
     soma(2, 2, x, y, z);
     mostrarMatriz(2, 2, z);
-    mostrarMatriz(4, 4, x);
     
     //Operações com diagonal principal
     printf("\n\nA soma da diagonal principal vale %d", somaDiagonalPrincipal(4, diagonal));
